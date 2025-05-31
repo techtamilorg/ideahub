@@ -23,7 +23,7 @@ This document describes how project ideas move from submission through voting, d
 
 ## 3. Triage & Discussion
 
-1. **Weekly Review of `idea` Issues**  
+1. **Monthly  Review of `idea` Issues**  
    - Maintainers scan all issues labeled `idea`.  
    - Ideas with few or no 👍 reactions remain in `idea`.  
    - Ideas with multiple 👍 or positive comments move forward.
