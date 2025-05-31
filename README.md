@@ -8,7 +8,7 @@ This document describes how project ideas move from submission through voting, d
 
 1. **Issue Created → `idea`**  
    - A contributor opens a new issue with a short title and 2–3 sentences explaining the idea.  
-   - The issue is automatically labeled `idea`. Explanations can be simple
+   - The issue is  labeled `idea`. Explanations can be simple
    - The contributor is required to answer atleast following minimum inrelated to an idea "What the idea is ?" , "Why the idea is important ?"
 
 ---
