@@ -1,2 +1,2 @@
 # ideahub
-a collection of ideas
+This repo is for collecting and tracking ideas.
